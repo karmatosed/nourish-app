@@ -1,0 +1,3 @@
+// Copy to Signing.local.xcconfig and set your Apple Developer Team ID.
+// Find it in Xcode: target → Signing & Capabilities → Team (10-character ID).
+DEVELOPMENT_TEAM = XXXXXXXXXX

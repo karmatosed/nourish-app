@@ -1,0 +1,5 @@
+Sustenance/Signing.local.xcconfig
+
+# Xcode user-specific state
+**/xcuserdata/
+*.xcuserstate
